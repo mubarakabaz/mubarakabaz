@@ -1,5 +1,5 @@
 ![enter image description here](https://www.mediafire.com/convkey/cf19/7vyjjq9hgtgapzw7g.jpg)
-### Hi there 👋
+
 
 <!--
 **mubarakabaz/mubarakabaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
