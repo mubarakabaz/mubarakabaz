@@ -1,4 +1,4 @@
-![enter image description here](https://scontent.fupg6-1.fna.fbcdn.net/v/t39.30808-6/273566259_4866223576797812_96051132680478713_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGdjkktyRI6pCHkR3EfOF7jY_LJBGAQdEFj8skEYBB0QUjPXlkOKT2DYs0n0ZGp9vsTkcBxEWjA_qnWBbGhjGyl&_nc_ohc=iQvUi-is0QMAX94MEMo&_nc_ht=scontent.fupg6-1.fna&oh=00_AT_lK7Nyi-Dh3WUcfYD0_h5llwF1kW7CAOOi69QPNwVJ-w&oe=62EAB1F9)
+![enter image description here](https://scontent.fupg6-1.fna.fbcdn.net/v/t39.30808-6/273566259_4866223576797812_96051132680478713_n.jpg)
 
 
 <!--
