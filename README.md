@@ -45,6 +45,7 @@ I am a Computer Science graduate (**S.Kom**) from **Hasanuddin University** with
 
 ---
 
+
 <p align="center">
-  <img src="#" alt="Abdul Aziz Mubarak GitHub Stats" />
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/mubarakabaz?theme=dark&font=Roboto%20Serif)
 </p>
